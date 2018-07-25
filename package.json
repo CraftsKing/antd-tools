@@ -1,7 +1,7 @@
 {
-  "name": "antd-tools",
+  "name": "@uplus/antd-tools",
   "version": "5.1.6",
-  "description": "tools for ant design",
+  "description": "tools for ant design, fork form antd-tools",
   "keywords": [
     "react",
     "tools"
